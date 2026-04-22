@@ -1,7 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="D634DEA0-FC53-2491-2E48-1D4D50F0E579" mainViewID="8ABC30AE-DB86-576D-6F56-444F9C97B6A0">
-<createdBy>ADVAN</createdBy>
-<createdTime>2025-10-14 12:16:44 UTC</createdTime>
-<ownerDesignName>smart tv</ownerDesignName>
-<shouldBeOpen>false</shouldBeOpen>
-</LogicalDesign>

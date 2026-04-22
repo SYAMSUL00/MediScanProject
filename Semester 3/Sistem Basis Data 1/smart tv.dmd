@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="smart tv" id="00676FC6-F575-7422-D003-76A3FE01A1A8" version="3.5">
-<createdBy>ADVAN</createdBy>
-<createdTime>2025-10-14 12:16:44 UTC</createdTime>
-<ownerDesignName>smart tv</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>00676FC6-F575-7422-D003-76A3FE01A1A8</designId>
-</OSDM_Design>

@@ -1,7 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="C1B82416-F41E-6450-0CF4-7DC920C71DA1">
-<createdBy>ADVAN</createdBy>
-<createdTime>2025-10-14 12:16:44 UTC</createdTime>
-<ownerDesignName>smart tv</ownerDesignName>
-<shouldBeOpen>false</shouldBeOpen>
-</ProcessModel>
